@@ -9,42 +9,45 @@ The main objective of this project is to explore and understand the factors cont
 # Data Sources
 To conduct this analysis, I utilized the following data sources:
 
-1. Eurostat (https://ec.europa.eu/eurostat/data/database)
-2. The World Bank (https://data.worldbank.org/country/EU)
-3. Kaggle (https://www.kaggle.com/)
+1. Eurostat (https://ec.europa.eu/eurostat/data/database);
+2. The World Bank (https://data.worldbank.org/country/EU);
+3. Kaggle (https://www.kaggle.com/).
 
 # Methodology
 The analysis for this project involved the following steps:
 
-1. Data Collection: I gathered relevant socio-political and economic data, including population demographics, election results, and economic indicators of far-right and populist movements in Portugal and other European countries such as GDP, unemployment rates, inflation rates, and other relevant economic indicators. 
-2. Data Preprocessing: I cleaned and transformed the collected data to ensure consistency and compatibility for analysis.
-3. Exploratory Data Analysis: I conducted exploratory data analysis to identify patterns, trends, and correlations within the variables.
-4. Comparative Analysis: I compared the socio-political and economic variables associated with far-right and populist movements in Portugal with those in other European countries. By examining these variables across different countries, I aimed to identify commonalities and differences in the factors driving the rise of these movements.
-5. Visualization: I created visual representations of the data using charts, graphs, and maps to facilitate understanding and present findings effectively. To accomplish this, I utilized Tableau.
+1. Data Collection: I gathered relevant socio-political and economic data, including population demographics, election results, and economic indicators of far-right and populist movements in Portugal and other European countries such as GDP, unemployment rates, inflation rates, and other relevant economic indicators;
+2. Data Preprocessing: I cleaned and transformed the collected data to ensure consistency and compatibility for analysis;
+3. Exploratory Data Analysis: I conducted exploratory data analysis to identify patterns, trends, and correlations within the variables;
+4. Comparative Analysis: I compared the socio-political and economic variables associated with far-right and populist movements in Portugal with those in other European countries. By examining these variables across different countries, I aimed to identify commonalities and differences in the factors driving the rise of these movements;
+5. Visualization: I created visual representations of the data using charts, graphs, and maps to facilitate understanding and present findings effectively. To accomplish this, I utilized Tableau;
 6. Insights and Conclusion: I summarized the key insights derived from the analysis and provided an evaluation of the potential risks and challenges posed by far-right and populist movements in Europe, focusing specifically on the case of Portugal.
+
 I appreciate the collaborative nature of this project and welcome contributions and input from others. 
 
 # Repository Structure
 This repository consists of the following files and directories:
 
-- data: Contains the dataset files used in the analysis.
-- notebooks: The project includes a Jupyter notebook that contains the code and documentation for the analysis steps.
-- Visualizations: The project includes visual representations of the data, which include charts, graphs, and maps. These visualizations are created using Tableau.
+- data: Contains the dataset files used in the analysis;
+- notebooks: The project includes a Jupyter notebook that contains the code and documentation for the analysis steps;
+- Visualizations: The project includes visual representations of the data, which include charts, graphs, and maps. These visualizations are created using Tableau;
 - README.md: The current file, providing an overview of the project.
+
+Overall, the "MidProject João Simões.ipynb" file is likely the most important file in the repository as it contains the core analysis work, while the other files and directories provide supporting data, visualizations, and project documentation.
 
 # Results and Findings
 Through this analysis, I have gained several insights into the potential risks posed by far-right and populist movements in Portugal. Some of the key findings include:
 
-- Identification of socio-political variables and historical contexts that contribute to the rise of these movements.
-- Comparison of Portugal's socio-political indicators with those of other European countries.
-- Visualization of data through informative charts, graphs, and maps to present the findings clearly.
+- Identification of socio-political variables and historical contexts that contribute to the rise of these movements;
+- Comparison of Portugal's socio-political indicators with those of other European countries;
+- Visualization of data through informative charts, graphs, and maps to present the findings clearly;
 - The analysis revealed an intriguing result, indicating that with a 63% accuracy, the data suggests that Chega should have been part of the government for 8 out of the last 11 years. 
 
 # Future Steps
 While this mid-project analysis has provided valuable insights, there are several avenues for further exploration. Some potential future steps to enhance the analysis include:
 
-- Incorporating additional variables related to economic and demographic factors and public sentiment to provide a more comprehensive analysis.
-- Conducting sentiment analysis on social media data to gauge public opinions and sentiments towards far-right and populist movements.
+- Incorporating additional variables related to economic and demographic factors and public sentiment to provide a more comprehensive analysis;
+- Conducting sentiment analysis on social media data to gauge public opinions and sentiments towards far-right and populist movements;
 - Investigating the role of media and online platforms in the propagation and influence of these movements.
 
 # Conclusion
