@@ -27,23 +27,25 @@ I appreciate the collaborative nature of this project and welcome contributions 
 # Repository Structure
 This repository consists of the following files and directories:
 
-data: Contains the dataset files used in the analysis.
-notebooks: The project includes a Jupyter notebook that contains the code and documentation for the analysis steps.
-Visualizations: The project includes visual representations of the data, which include charts, graphs, and maps. These visualizations are created using Tableau.
-README.md: The current file, providing an overview of the project.
+- data: Contains the dataset files used in the analysis.
+- notebooks: The project includes a Jupyter notebook that contains the code and documentation for the analysis steps.
+- Visualizations: The project includes visual representations of the data, which include charts, graphs, and maps. These visualizations are created using Tableau.
+- README.md: The current file, providing an overview of the project.
 
 # Results and Findings
 Through this analysis, I have gained several insights into the potential risks posed by far-right and populist movements in Portugal. Some of the key findings include:
 
-Identification of socio-political variables and historical contexts that contribute to the rise of these movements.
-Comparison of Portugal's socio-political indicators with those of other European countries.
-Evaluation of the potential impact of far-right and populist movements on Portugal's political stability and social cohesion.
-Visualization of data through informative charts, graphs, and maps to present the findings clearly.
-Future Steps
+- Identification of socio-political variables and historical contexts that contribute to the rise of these movements.
+- Comparison of Portugal's socio-political indicators with those of other European countries.
+- Visualization of data through informative charts, graphs, and maps to present the findings clearly.
+- The analysis revealed an intriguing result, indicating that with a 63% accuracy, the data suggests that Chega should have been part of the government for 8 out of the last 11 years. 
+
+# Future Steps
 While this mid-project analysis has provided valuable insights, there are several avenues for further exploration. Some potential future steps to enhance the analysis include:
 
-Incorporating additional variables related to economic factors and public sentiment to provide a more comprehensive analysis.
-Conducting sentiment analysis on social media data to gauge public opinions and sentiments towards far-right and populist movements.
-Investigating the role of media and online platforms in the propagation and influence of these movements.
-Conclusion
+- Incorporating additional variables related to economic and demographic factors and public sentiment to provide a more comprehensive analysis.
+- Conducting sentiment analysis on social media data to gauge public opinions and sentiments towards far-right and populist movements.
+- Investigating the role of media and online platforms in the propagation and influence of these movements.
+
+# Conclusion
 This mid-project analysis has served as an initial exploration of the potential risks posed by far-right and populist movements in Portugal. By analyzing socio-political variables
