@@ -30,7 +30,7 @@ This repository consists of the following files and directories:
 
 - data: Contains the dataset files used in the analysis;
 - notebooks: The project includes a Jupyter notebook that contains the code and documentation for the analysis steps;
-- Visualizations: The project includes visual representations of the data, which include charts, graphs, and maps. These visualizations are created using Tableau;
+- Visualizations: The project includes visual representations of the data, which include charts, graphs, and maps. These visualizations are created using Tableau (you can enter on my Tableau page on my Github profile);
 - README.md: The current file, providing an overview of the project.
 
 Overall, the "MidProject João Simões.ipynb" file is likely the most important file in the repository as it contains the core analysis work, while the other files and directories provide supporting data, visualizations, and project documentation.
